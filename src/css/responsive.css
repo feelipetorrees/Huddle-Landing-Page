@@ -1,0 +1,69 @@
+
+
+
+
+
+
+/* Laptop */
+ /* @media(max-width:1420px){
+  .main .info-side{
+    padding: 0 30px;
+
+  }
+
+  .main .info-side h2{
+    font-size: 3.5rem;
+  
+ 
+  }
+  .main .info-side p{
+    font-size: 1.8rem;
+    
+  }
+  .footer nav .menu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    
+  }
+
+}
+
+@media(max-width: 1150px){
+.main{
+  margin: auto;
+  flex-wrap: wrap;
+}
+.footer{
+  display: flex;
+  justify-content: center;
+  
+}
+.footer nav .menu{
+  margin-right: 0;
+}
+}
+
+@media(max-width: 900px){
+  
+  .main {
+    margin: auto;
+  }
+  .header .logo{
+    margin: 20px;
+  }
+}
+
+@media(max-width: 720px){
+  body{
+    background: url(../images/bg-mobile.svg) var(--primary-color) no-repeat;
+  }
+  
+  .main  img{
+    width: 300px;
+
+    
+  }
+
+}  */
